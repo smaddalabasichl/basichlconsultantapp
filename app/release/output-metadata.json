@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.basichomeloan.dsapp",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 7,
+      "versionName": "v_0.4",
+      "enabled": true,
+      "outputFile": "app-release.apk"
+    }
+  ]
+}
