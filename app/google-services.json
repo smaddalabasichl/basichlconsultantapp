@@ -15,34 +15,13 @@
       },
       "oauth_client": [
         {
-          "client_id": "104402496273-ttuacu4839uicpesm5t2itaukakrqa8u.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDLoFwNm1t_nv7ZaRNJa2c7vb3Dj1I3l88"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "104402496273-ttuacu4839uicpesm5t2itaukakrqa8u.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:104402496273:android:d0b3182b31c2d3136e7ab0",
-        "android_client_info": {
-          "package_name": "com.basichomeloan.basicapp"
-        }
-      },
-      "oauth_client": [
+          "client_id": "104402496273-dvag7khr8prjvn5mml7hgk0e9o0kv9ho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.basichomeloan.basicapp",
+            "certificate_hash": "bfd8fefac1f0362f55dfbd71b66cbe254188f433"
+          }
+        },
         {
           "client_id": "104402496273-ttuacu4839uicpesm5t2itaukakrqa8u.apps.googleusercontent.com",
           "client_type": 3
@@ -64,6 +43,7 @@
         }
       }
     }
+
   ],
   "configuration_version": "1"
 }

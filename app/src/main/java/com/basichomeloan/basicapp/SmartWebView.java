@@ -43,8 +43,8 @@ class SmartWebView {
 
 	// URL configs
 	    // complete URL of your website or offline webpage
-//	static String ASWV_URL            = "https://dev-basicapp.basichomeloan.com/";     // complete URL of your website or offline webpage
-	static String ASWV_URL            = "https://basicapp.basichomeloan.com/";     // complete URL of your website or offline webpage
+	static String ASWV_URL            = "https://dev-basicapp.basichomeloan.com/";     // complete URL of your website or offline webpage
+	//static String ASWV_URL            = "https://basicapp.basichomeloan.com/";     // complete URL of your website or offline webpage
 	static String ASWV_SEARCH         = "https://www.google.com/search?q=";       // search query will start by the end of the present string
 	static String ASWV_SHARE_URL      = ASWV_URL + "?share=";                     // URL where you process external content shared with the app
 

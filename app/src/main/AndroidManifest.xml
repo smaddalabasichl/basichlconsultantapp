@@ -63,8 +63,8 @@
 				<category android:name="android.intent.category.BROWSABLE" />
 
 				<data
-					android:host="github.com"
-					android:pathPrefix="/mgks"
+					android:host="dev-basicapp.basichomeloan.com"
+					android:pathPrefix="/"
 					android:scheme="https" />
 				<!-- if you want only a specific directory from your website to be opened in the app through external links -->
 			</intent-filter>

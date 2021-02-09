@@ -4,15 +4,15 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.basichomeloan.dsapp",
+  "applicationId": "com.basichomeloan.basicapp",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "properties": [],
-      "versionCode": 7,
-      "versionName": "v_0.4",
+      "versionCode": 3,
+      "versionName": "v_0.1",
       "enabled": true,
       "outputFile": "app-release.apk"
     }
